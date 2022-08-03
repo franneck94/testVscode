@@ -14,8 +14,9 @@ def game_logic(goal):
             break
 
 def main():
+    goal = 45
     game_guide()
-    game_logic(33)
+    game_logic(goal)
 
 
 if __name__ == "__main__":
