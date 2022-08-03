@@ -14,7 +14,7 @@ def game_logic(goal):
             break
 
 def main():
-    goal = 45
+    goal = 47
     game_guide()
     game_logic(goal)
 
